@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068390468200:jetbrains.mps.baseLanguage.structure.FieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <root>
+    <file name="ConceptPresentationAspectImpl.java">
+      <unit at="11,0,92,0" name="pirma.converter2.structure.ConceptPresentationAspectImpl" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <unit at="10,0,44,0" name="pirma.converter2.structure.LanguageConceptSwitch" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <unit at="16,0,162,0" name="pirma.converter2.structure.StructureAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:9a6ef392-0940-45d4-8890-77c376440f07(pirma.converter2.structure)/2096160456419594916">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="2096160456419594916" at="16,0,17,0" concept="1" trace="props_Multiplication" />
+      <node id="2096160456419594916" at="56,43,57,76" concept="3" />
+      <node id="2096160456419594916" at="57,76,58,48" concept="0" />
+      <node id="2096160456419594916" at="58,48,59,46" concept="0" />
+      <node id="2096160456419594916" at="60,9,61,36" concept="4" />
+      <node id="2096160456419594916" at="55,48,60,9" concept="2" />
+      <scope id="2096160456419594916" at="56,43,59,46">
+        <var name="cpb" id="2096160456419594916" />
+      </scope>
+      <scope id="2096160456419594916" at="55,48,61,36" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="2096160456419594916" at="16,0,17,0" concept="5" trace="Multiplication" />
+      <node id="2096160456419594916" at="27,50,28,53" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="2096160456419594916" at="21,0,22,0" concept="1" trace="myConceptMultiplication" />
+      <node id="2096160456419594916" at="55,48,56,39" concept="4" />
+      <node id="2096160456419594916" at="120,72,121,165" concept="3" />
+      <node id="2096160456419594916" at="121,165,122,34" concept="0" />
+      <node id="2096160456419594916" at="122,34,123,113" concept="0" />
+      <node id="2096160456419594916" at="123,113,124,103" concept="0" />
+      <node id="2096160456419594916" at="124,103,125,17" concept="0" />
+      <node id="2096160456419594916" at="125,17,126,30" concept="0" />
+      <node id="2096160456419594916" at="126,30,127,22" concept="4" />
+      <node id="2096160456419594916" at="120,0,129,0" concept="6" trace="createDescriptorForMultiplication#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="2096160456419594916" at="55,48,56,39" />
+      <scope id="2096160456419594916" at="120,72,127,22">
+        <var name="b" id="2096160456419594916" />
+      </scope>
+      <scope id="2096160456419594916" at="120,0,129,0" />
+    </file>
+  </root>
+  <root nodeRef="r:9a6ef392-0940-45d4-8890-77c376440f07(pirma.converter2.structure)/4782169596470886723">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="4782169596470886723" at="17,0,18,0" concept="1" trace="props_Output" />
+      <node id="4782169596470886723" at="63,35,64,76" concept="3" />
+      <node id="4782169596470886723" at="64,76,65,38" concept="0" />
+      <node id="4782169596470886723" at="66,9,67,28" concept="4" />
+      <node id="4782169596470886723" at="62,40,66,9" concept="2" />
+      <scope id="4782169596470886723" at="63,35,65,38">
+        <var name="cpb" id="4782169596470886723" />
+      </scope>
+      <scope id="4782169596470886723" at="62,40,67,28" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="4782169596470886723" at="17,0,18,0" concept="5" trace="Output" />
+      <node id="4782169596470886723" at="28,53,29,45" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4782169596470886723" at="22,0,23,0" concept="1" trace="myConceptOutput" />
+      <node id="4782169596470886723" at="57,40,58,31" concept="4" />
+      <node id="4782169596470886723" at="129,64,130,157" concept="3" />
+      <node id="4782169596470886723" at="130,157,131,33" concept="0" />
+      <node id="4782169596470886723" at="131,33,132,103" concept="0" />
+      <node id="4782169596470886723" at="132,103,133,17" concept="0" />
+      <node id="4782169596470886723" at="133,17,134,22" concept="4" />
+      <node id="4782169596470886723" at="129,0,136,0" concept="6" trace="createDescriptorForOutput#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="4782169596470886723" at="57,40,58,31" />
+      <scope id="4782169596470886723" at="129,64,134,22">
+        <var name="b" id="4782169596470886723" />
+      </scope>
+      <scope id="4782169596470886723" at="129,0,136,0" />
+    </file>
+  </root>
+  <root nodeRef="r:9a6ef392-0940-45d4-8890-77c376440f07(pirma.converter2.structure)/4782169596470886781">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="4782169596470886781" at="20,0,21,0" concept="1" trace="props_Sum" />
+      <node id="4782169596470886781" at="82,32,83,76" concept="3" />
+      <node id="4782169596470886781" at="83,76,84,37" concept="0" />
+      <node id="4782169596470886781" at="84,37,85,35" concept="0" />
+      <node id="4782169596470886781" at="86,9,87,25" concept="4" />
+      <node id="4782169596470886781" at="81,37,86,9" concept="2" />
+      <scope id="4782169596470886781" at="82,32,85,35">
+        <var name="cpb" id="4782169596470886781" />
+      </scope>
+      <scope id="4782169596470886781" at="81,37,87,25" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="4782169596470886781" at="20,0,21,0" concept="5" trace="Sum" />
+      <node id="4782169596470886781" at="31,50,32,42" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4782169596470886781" at="25,0,26,0" concept="1" trace="myConceptSum" />
+      <node id="4782169596470886781" at="63,37,64,28" concept="4" />
+      <node id="4782169596470886781" at="152,61,153,154" concept="3" />
+      <node id="4782169596470886781" at="153,154,154,34" concept="0" />
+      <node id="4782169596470886781" at="154,34,155,113" concept="0" />
+      <node id="4782169596470886781" at="155,113,156,103" concept="0" />
+      <node id="4782169596470886781" at="156,103,157,17" concept="0" />
+      <node id="4782169596470886781" at="157,17,158,19" concept="0" />
+      <node id="4782169596470886781" at="158,19,159,22" concept="4" />
+      <node id="4782169596470886781" at="152,0,161,0" concept="6" trace="createDescriptorForSum#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="4782169596470886781" at="63,37,64,28" />
+      <scope id="4782169596470886781" at="152,61,159,22">
+        <var name="b" id="4782169596470886781" />
+      </scope>
+      <scope id="4782169596470886781" at="152,0,161,0" />
+    </file>
+  </root>
+  <root nodeRef="r:9a6ef392-0940-45d4-8890-77c376440f07(pirma.converter2.structure)/4782169596470886834">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="4782169596470886834" at="19,0,20,0" concept="1" trace="props_Subtraction" />
+      <node id="4782169596470886834" at="75,40,76,76" concept="3" />
+      <node id="4782169596470886834" at="76,76,77,45" concept="0" />
+      <node id="4782169596470886834" at="77,45,78,43" concept="0" />
+      <node id="4782169596470886834" at="79,9,80,33" concept="4" />
+      <node id="4782169596470886834" at="74,45,79,9" concept="2" />
+      <scope id="4782169596470886834" at="75,40,78,43">
+        <var name="cpb" id="4782169596470886834" />
+      </scope>
+      <scope id="4782169596470886834" at="74,45,80,33" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="4782169596470886834" at="19,0,20,0" concept="5" trace="Subtraction" />
+      <node id="4782169596470886834" at="30,53,31,50" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4782169596470886834" at="24,0,25,0" concept="1" trace="myConceptSubtraction" />
+      <node id="4782169596470886834" at="61,45,62,36" concept="4" />
+      <node id="4782169596470886834" at="143,69,144,162" concept="3" />
+      <node id="4782169596470886834" at="144,162,145,34" concept="0" />
+      <node id="4782169596470886834" at="145,34,146,113" concept="0" />
+      <node id="4782169596470886834" at="146,113,147,103" concept="0" />
+      <node id="4782169596470886834" at="147,103,148,17" concept="0" />
+      <node id="4782169596470886834" at="148,17,149,27" concept="0" />
+      <node id="4782169596470886834" at="149,27,150,22" concept="4" />
+      <node id="4782169596470886834" at="143,0,152,0" concept="6" trace="createDescriptorForSubtraction#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="4782169596470886834" at="61,45,62,36" />
+      <scope id="4782169596470886834" at="143,69,150,22">
+        <var name="b" id="4782169596470886834" />
+      </scope>
+      <scope id="4782169596470886834" at="143,0,152,0" />
+    </file>
+  </root>
+  <root nodeRef="r:9a6ef392-0940-45d4-8890-77c376440f07(pirma.converter2.structure)/4782169596471620278">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="4782169596471620278" at="15,0,16,0" concept="1" trace="props_Hexadecimal" />
+      <node id="4782169596471620278" at="49,40,50,76" concept="3" />
+      <node id="4782169596471620278" at="50,76,51,45" concept="0" />
+      <node id="4782169596471620278" at="51,45,52,43" concept="0" />
+      <node id="4782169596471620278" at="53,9,54,33" concept="4" />
+      <node id="4782169596471620278" at="48,45,53,9" concept="2" />
+      <scope id="4782169596471620278" at="49,40,52,43">
+        <var name="cpb" id="4782169596471620278" />
+      </scope>
+      <scope id="4782169596471620278" at="48,45,54,33" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="4782169596471620278" at="15,0,16,0" concept="5" trace="Hexadecimal" />
+      <node id="4782169596471620278" at="26,46,27,50" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4782169596471620278" at="20,0,21,0" concept="1" trace="myConceptHexadecimal" />
+      <node id="4782169596471620278" at="53,45,54,36" concept="4" />
+      <node id="4782169596471620278" at="110,69,111,162" concept="3" />
+      <node id="4782169596471620278" at="111,162,112,34" concept="0" />
+      <node id="4782169596471620278" at="112,34,113,121" concept="0" />
+      <node id="4782169596471620278" at="113,121,114,103" concept="0" />
+      <node id="4782169596471620278" at="114,103,115,17" concept="0" />
+      <node id="4782169596471620334" at="115,17,116,114" concept="0" />
+      <node id="4782169596471620278" at="116,114,117,27" concept="0" />
+      <node id="4782169596471620278" at="117,27,118,22" concept="4" />
+      <node id="4782169596471620278" at="110,0,120,0" concept="6" trace="createDescriptorForHexadecimal#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="4782169596471620278" at="53,45,54,36" />
+      <scope id="4782169596471620278" at="110,69,118,22">
+        <var name="b" id="4782169596471620278" />
+      </scope>
+      <scope id="4782169596471620278" at="110,0,120,0" />
+    </file>
+  </root>
+  <root nodeRef="r:9a6ef392-0940-45d4-8890-77c376440f07(pirma.converter2.structure)/5867125814802040939">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="5867125814802040939" at="13,0,14,0" concept="1" trace="props_Converter" />
+      <node id="5867125814802040939" at="35,38,36,76" concept="3" />
+      <node id="5867125814802040939" at="36,76,37,35" concept="0" />
+      <node id="5867125814802040939" at="37,35,38,41" concept="0" />
+      <node id="5867125814802040939" at="39,9,40,31" concept="4" />
+      <node id="5867125814802040939" at="34,43,39,9" concept="2" />
+      <scope id="5867125814802040939" at="35,38,38,41">
+        <var name="cpb" id="5867125814802040939" />
+      </scope>
+      <scope id="5867125814802040939" at="34,43,40,31" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="5867125814802040939" at="13,0,14,0" concept="5" trace="Converter" />
+      <node id="5867125814802040939" at="24,45,25,48" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="5867125814802040939" at="18,0,19,0" concept="1" trace="myConceptConverter" />
+      <node id="5867125814802040939" at="49,43,50,34" concept="4" />
+      <node id="5867125814802040939" at="89,67,90,160" concept="3" />
+      <node id="5867125814802040939" at="90,160,91,33" concept="0" />
+      <node id="5867125814802040939" at="91,33,92,71" concept="0" />
+      <node id="5867125814802040939" at="92,71,93,76" concept="0" />
+      <node id="5867125814802040939" at="93,76,94,103" concept="0" />
+      <node id="5867125814802040939" at="94,103,95,17" concept="0" />
+      <node id="5867125814802055633" at="95,17,96,207" concept="0" />
+      <node id="4782169596470886887" at="96,207,97,198" concept="0" />
+      <node id="5867125814802040939" at="97,198,98,22" concept="4" />
+      <node id="5867125814802040939" at="89,0,100,0" concept="6" trace="createDescriptorForConverter#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="5867125814802040939" at="49,43,50,34" />
+      <scope id="5867125814802040939" at="89,67,98,22">
+        <var name="b" id="5867125814802040939" />
+      </scope>
+      <scope id="5867125814802040939" at="89,0,100,0" />
+    </file>
+  </root>
+  <root nodeRef="r:9a6ef392-0940-45d4-8890-77c376440f07(pirma.converter2.structure)/5867125814802055546">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="5867125814802055546" at="18,0,19,0" concept="1" trace="props_Representation" />
+      <node id="5867125814802055546" at="69,43,70,76" concept="3" />
+      <node id="5867125814802055546" at="70,76,71,46" concept="0" />
+      <node id="5867125814802055546" at="72,9,73,36" concept="4" />
+      <node id="5867125814802055546" at="68,48,72,9" concept="2" />
+      <scope id="5867125814802055546" at="69,43,71,46">
+        <var name="cpb" id="5867125814802055546" />
+      </scope>
+      <scope id="5867125814802055546" at="68,48,73,36" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="5867125814802055546" at="18,0,19,0" concept="5" trace="Representation" />
+      <node id="5867125814802055546" at="29,45,30,53" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="5867125814802055546" at="23,0,24,0" concept="1" trace="myConceptRepresentation" />
+      <node id="5867125814802055546" at="59,48,60,39" concept="4" />
+      <node id="5867125814802055546" at="136,72,137,165" concept="3" />
+      <node id="5867125814802055546" at="137,165,138,33" concept="0" />
+      <node id="5867125814802055546" at="138,33,139,103" concept="0" />
+      <node id="5867125814802055546" at="139,103,140,17" concept="0" />
+      <node id="5867125814802055546" at="140,17,141,22" concept="4" />
+      <node id="5867125814802055546" at="136,0,143,0" concept="6" trace="createDescriptorForRepresentation#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="5867125814802055546" at="59,48,60,39" />
+      <scope id="5867125814802055546" at="136,72,141,22">
+        <var name="b" id="5867125814802055546" />
+      </scope>
+      <scope id="5867125814802055546" at="136,0,143,0" />
+    </file>
+  </root>
+  <root nodeRef="r:9a6ef392-0940-45d4-8890-77c376440f07(pirma.converter2.structure)/5867125814802055573">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="5867125814802055573" at="14,0,15,0" concept="1" trace="props_Decimal" />
+      <node id="5867125814802055573" at="42,36,43,76" concept="3" />
+      <node id="5867125814802055573" at="43,76,44,41" concept="0" />
+      <node id="5867125814802055573" at="44,41,45,39" concept="0" />
+      <node id="5867125814802055573" at="46,9,47,29" concept="4" />
+      <node id="5867125814802055573" at="41,41,46,9" concept="2" />
+      <scope id="5867125814802055573" at="42,36,45,39">
+        <var name="cpb" id="5867125814802055573" />
+      </scope>
+      <scope id="5867125814802055573" at="41,41,47,29" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="5867125814802055573" at="14,0,15,0" concept="5" trace="Decimal" />
+      <node id="5867125814802055573" at="25,48,26,46" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="5867125814802055573" at="19,0,20,0" concept="1" trace="myConceptDecimal" />
+      <node id="5867125814802055573" at="51,41,52,32" concept="4" />
+      <node id="5867125814802055573" at="100,65,101,158" concept="3" />
+      <node id="5867125814802055573" at="101,158,102,34" concept="0" />
+      <node id="5867125814802055573" at="102,34,103,121" concept="0" />
+      <node id="5867125814802055573" at="103,121,104,103" concept="0" />
+      <node id="5867125814802055573" at="104,103,105,17" concept="0" />
+      <node id="5867125814802055600" at="105,17,106,112" concept="0" />
+      <node id="5867125814802055573" at="106,112,107,23" concept="0" />
+      <node id="5867125814802055573" at="107,23,108,22" concept="4" />
+      <node id="5867125814802055573" at="100,0,110,0" concept="6" trace="createDescriptorForDecimal#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="5867125814802055573" at="51,41,52,32" />
+      <scope id="5867125814802055573" at="100,65,108,22">
+        <var name="b" id="5867125814802055573" />
+      </scope>
+      <scope id="5867125814802055573" at="100,0,110,0" />
+    </file>
+  </root>
+  <root nodeRef="r:9a6ef392-0940-45d4-8890-77c376440f07(pirma.converter2.structure)/5867125814802055602">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="5867125814802055602" at="12,0,13,0" concept="1" trace="props_Binary" />
+      <node id="5867125814802055602" at="28,35,29,76" concept="3" />
+      <node id="5867125814802055602" at="29,76,30,40" concept="0" />
+      <node id="5867125814802055602" at="30,40,31,38" concept="0" />
+      <node id="5867125814802055602" at="32,9,33,28" concept="4" />
+      <node id="5867125814802055602" at="27,40,32,9" concept="2" />
+      <scope id="5867125814802055602" at="28,35,31,38">
+        <var name="cpb" id="5867125814802055602" />
+      </scope>
+      <scope id="5867125814802055602" at="27,40,33,28" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="5867125814802055602" at="12,0,13,0" concept="5" trace="Binary" />
+      <node id="5867125814802055602" at="23,116,24,45" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="5867125814802055602" at="17,0,18,0" concept="1" trace="myConceptBinary" />
+      <node id="5867125814802055602" at="47,40,48,31" concept="4" />
+      <node id="5867125814802055602" at="79,64,80,157" concept="3" />
+      <node id="5867125814802055602" at="80,157,81,34" concept="0" />
+      <node id="5867125814802055602" at="81,34,82,121" concept="0" />
+      <node id="5867125814802055602" at="82,121,83,103" concept="0" />
+      <node id="5867125814802055602" at="83,103,84,17" concept="0" />
+      <node id="5867125814802055631" at="84,17,85,117" concept="0" />
+      <node id="5867125814802055602" at="85,117,86,22" concept="0" />
+      <node id="5867125814802055602" at="86,22,87,22" concept="4" />
+      <node id="5867125814802055602" at="79,0,89,0" concept="6" trace="createDescriptorForBinary#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="5867125814802055602" at="47,40,48,31" />
+      <scope id="5867125814802055602" at="79,64,87,22">
+        <var name="b" id="5867125814802055602" />
+      </scope>
+      <scope id="5867125814802055602" at="79,0,89,0" />
+    </file>
+  </root>
+</debug-info>
+

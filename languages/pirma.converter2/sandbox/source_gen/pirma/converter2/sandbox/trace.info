@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1082485599095:jetbrains.mps.baseLanguage.structure.BlockStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123157:jetbrains.mps.baseLanguage.structure.Statement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <root nodeRef="r:78293a32-41b9-4303-b0e3-34270fa09461(pirma.converter2.sandbox)/5867125814802065664">
+    <file name="MyConverter.java">
+      <node id="5867125814802065664" at="10,30,11,16" concept="3" />
+      <node id="5867125814802095718" at="12,5,13,49" concept="3" />
+      <node id="5867125814802095718" at="13,49,14,27" concept="1" />
+      <node id="5867125814802095724" at="16,5,17,24" concept="3" />
+      <node id="5867125814802095724" at="17,24,18,27" concept="1" />
+      <node id="4782169596471029088" at="20,5,21,48" concept="3" />
+      <node id="4782169596471029088" at="21,48,22,27" concept="1" />
+      <node id="4782169596471651935" at="24,5,25,48" concept="3" />
+      <node id="4782169596471651935" at="25,48,26,27" concept="1" />
+      <node id="5867125814802065664" at="27,5,28,15" concept="4" />
+      <node id="5867125814802065664" at="30,30,31,46" concept="3" />
+      <node id="5867125814802065664" at="31,46,32,0" concept="5" />
+      <node id="5867125814802095718" at="33,5,34,51" concept="3" />
+      <node id="5867125814802095718" at="34,51,35,29" concept="1" />
+      <node id="5867125814802095724" at="37,5,38,26" concept="3" />
+      <node id="5867125814802095724" at="38,26,39,29" concept="1" />
+      <node id="4782169596471029088" at="41,5,42,50" concept="3" />
+      <node id="4782169596471029088" at="42,50,43,29" concept="1" />
+      <node id="4782169596471651935" at="45,5,46,50" concept="3" />
+      <node id="4782169596471651935" at="46,50,47,29" concept="1" />
+      <node id="5867125814802065664" at="48,5,49,15" concept="4" />
+      <node id="5867125814802065664" at="51,34,52,19" concept="3" />
+      <node id="5867125814802095718" at="53,5,54,51" concept="3" />
+      <node id="5867125814802095718" at="54,51,55,35" concept="1" />
+      <node id="5867125814802095724" at="57,5,58,26" concept="3" />
+      <node id="5867125814802095724" at="58,26,59,35" concept="1" />
+      <node id="4782169596471029088" at="61,5,62,50" concept="3" />
+      <node id="4782169596471029088" at="62,50,63,35" concept="1" />
+      <node id="4782169596471651935" at="65,5,66,50" concept="3" />
+      <node id="4782169596471651935" at="66,50,67,35" concept="1" />
+      <node id="5867125814802065664" at="68,5,69,18" concept="4" />
+      <node id="5867125814802065664" at="72,26,73,52" concept="1" />
+      <node id="5867125814802065664" at="73,52,74,59" concept="3" />
+      <node id="5867125814802065664" at="74,59,75,23" concept="1" />
+      <node id="5867125814802065664" at="76,33,77,60" concept="1" />
+      <node id="5867125814802065664" at="77,60,78,66" concept="3" />
+      <node id="5867125814802065664" at="78,66,79,23" concept="1" />
+      <node id="5867125814802065664" at="80,36,81,67" concept="1" />
+      <node id="5867125814802065664" at="81,67,82,73" concept="3" />
+      <node id="5867125814802065664" at="82,73,83,23" concept="1" />
+      <node id="5867125814802065664" at="86,42,87,18" concept="3" />
+      <node id="5867125814802065664" at="87,18,88,40" concept="3" />
+      <node id="5867125814802065664" at="88,40,89,32" concept="3" />
+      <node id="5867125814802065664" at="89,32,90,0" concept="5" />
+      <node id="5867125814802095718" at="90,0,91,52" concept="1" />
+      <node id="5867125814802095724" at="91,52,92,27" concept="1" />
+      <node id="4782169596471029088" at="92,27,93,51" concept="1" />
+      <node id="4782169596471651935" at="93,51,94,51" concept="1" />
+      <node id="5867125814802065664" at="94,51,95,19" concept="1" />
+      <node id="5867125814802065664" at="95,19,96,29" concept="1" />
+      <node id="5867125814802065664" at="96,29,97,19" concept="1" />
+      <node id="5867125814802065664" at="97,19,98,29" concept="1" />
+      <node id="5867125814802065664" at="98,29,99,22" concept="1" />
+      <node id="5867125814802065664" at="99,22,100,29" concept="1" />
+      <node id="5867125814802065664" at="100,29,101,0" concept="5" />
+      <node id="5867125814802065664" at="101,0,102,21" concept="1" />
+      <node id="5867125814802065664" at="102,21,103,28" concept="1" />
+      <node id="5867125814802065664" at="103,28,104,17" concept="1" />
+      <node id="5867125814802095718" at="11,16,15,5" concept="0" />
+      <node id="5867125814802095724" at="15,5,19,5" concept="0" />
+      <node id="4782169596471029088" at="19,5,23,5" concept="0" />
+      <node id="4782169596471651935" at="23,5,27,5" concept="0" />
+      <node id="5867125814802095718" at="32,0,36,5" concept="0" />
+      <node id="5867125814802095724" at="36,5,40,5" concept="0" />
+      <node id="4782169596471029088" at="40,5,44,5" concept="0" />
+      <node id="4782169596471651935" at="44,5,48,5" concept="0" />
+      <node id="5867125814802095718" at="52,19,56,5" concept="0" />
+      <node id="5867125814802095724" at="56,5,60,5" concept="0" />
+      <node id="4782169596471029088" at="60,5,64,5" concept="0" />
+      <node id="4782169596471651935" at="64,5,68,5" concept="0" />
+      <node id="5867125814802065664" at="71,61,84,5" concept="2" />
+      <node id="5867125814802065664" at="71,0,86,0" concept="6" trace="calculate#(Ljava/lang/String;Ljavax/swing/JPanel;)V" />
+      <node id="5867125814802065664" at="10,0,30,0" concept="6" trace="getSum#()I" />
+      <node id="5867125814802065664" at="51,0,71,0" concept="6" trace="getMultipl#()I" />
+      <node id="5867125814802065664" at="86,0,106,0" concept="6" trace="main#([Ljava/lang/String;)V" />
+      <node id="5867125814802065664" at="30,0,51,0" concept="6" trace="getSub#()I" />
+      <scope id="5867125814802095718" at="12,5,14,27">
+        <var name="number_a" id="5867125814802095718" />
+      </scope>
+      <scope id="5867125814802095724" at="16,5,18,27">
+        <var name="number_b" id="5867125814802095724" />
+      </scope>
+      <scope id="4782169596471029088" at="20,5,22,27">
+        <var name="number_c" id="4782169596471029088" />
+      </scope>
+      <scope id="4782169596471651935" at="24,5,26,27">
+        <var name="number_d" id="4782169596471651935" />
+      </scope>
+      <scope id="5867125814802095718" at="33,5,35,29">
+        <var name="number_a_0" id="5867125814802095718" />
+      </scope>
+      <scope id="5867125814802095724" at="37,5,39,29">
+        <var name="number_b_0" id="5867125814802095724" />
+      </scope>
+      <scope id="4782169596471029088" at="41,5,43,29">
+        <var name="number_c_0" id="4782169596471029088" />
+      </scope>
+      <scope id="4782169596471651935" at="45,5,47,29">
+        <var name="number_d_0" id="4782169596471651935" />
+      </scope>
+      <scope id="5867125814802095718" at="53,5,55,35">
+        <var name="number_a_1" id="5867125814802095718" />
+      </scope>
+      <scope id="5867125814802095724" at="57,5,59,35">
+        <var name="number_b_1" id="5867125814802095724" />
+      </scope>
+      <scope id="4782169596471029088" at="61,5,63,35">
+        <var name="number_c_1" id="4782169596471029088" />
+      </scope>
+      <scope id="4782169596471651935" at="65,5,67,35">
+        <var name="number_d_1" id="4782169596471651935" />
+      </scope>
+      <scope id="5867125814802065664" at="72,26,75,23">
+        <var name="label" id="5867125814802065664" />
+      </scope>
+      <scope id="5867125814802065664" at="76,33,79,23">
+        <var name="label" id="5867125814802065664" />
+      </scope>
+      <scope id="5867125814802065664" at="80,36,83,23">
+        <var name="label" id="5867125814802065664" />
+      </scope>
+      <scope id="5867125814802065664" at="71,61,84,5" />
+      <scope id="5867125814802065664" at="71,0,86,0">
+        <var name="output" id="5867125814802065664" />
+        <var name="panel" id="5867125814802065664" />
+      </scope>
+      <scope id="5867125814802065664" at="10,30,28,15">
+        <var name="sum" id="5867125814802065664" />
+      </scope>
+      <scope id="5867125814802065664" at="51,34,69,18">
+        <var name="multip" id="5867125814802065664" />
+      </scope>
+      <scope id="5867125814802065664" at="86,42,104,17">
+        <var name="frame" id="5867125814802065664" />
+        <var name="output" id="5867125814802065664" />
+        <var name="panel" id="5867125814802065664" />
+      </scope>
+      <scope id="5867125814802065664" at="30,30,49,15">
+        <var name="sub" id="5867125814802065664" />
+      </scope>
+      <scope id="5867125814802065664" at="10,0,30,0" />
+      <scope id="5867125814802065664" at="51,0,71,0" />
+      <scope id="5867125814802065664" at="86,0,106,0">
+        <var name="args" id="5867125814802065664" />
+      </scope>
+      <scope id="5867125814802065664" at="30,0,51,0" />
+      <unit id="5867125814802065664" at="9,0,107,0" name="pirma.converter2.sandbox.MyConverter" />
+    </file>
+  </root>
+</debug-info>
+
